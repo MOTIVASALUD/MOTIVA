@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MOTIVA - Centro de Salud y Bienestar</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #008080;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav {
+            background-color: #004d4d;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 1rem;
+            text-decoration: none;
+        }
+        section {
+            padding: 2rem;
+        }
+        footer {
+            background-color: #008080;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="logo.png" alt="Logo de MOTIVA" width="150">
+        <h1>Centro de Salud y Bienestar MOTIVA</h1>
+        <p>"Lifelong Learning"</p>
+    </header>
+    <nav>
+        <a href="#mision">Misión</a>
+        <a href="#vision">Visión</a>
+        <a href="#valores">Valores</a>
+        <a href="#servicios">Servicios</a>
+        <a href="#equipo">Equipo</a>
+        <a href="#testimonios">Testimonios</a>
+        <a href="#contacto">Contacto</a>
+    </nav>
+    <section id="mision">
+        <h2>Misión</h2>
+        <p>Motivar a la gente para mejorar su calidad de vida fomentando la disciplina a lo largo de todo el proceso.</p>
+    </section>
+    <section id="vision">
+        <h2>Visión</h2>
+        <p>Consolidar en el Valle de UCO a MOTIVA como una entidad segura, confiable y moderna, siendo referente dentro del área de salud en la sociedad como modelo a seguir, contando con más de una sucursal y que las mismas puedan interactuar entre ellas y otros organismos que se encuentren en la búsqueda de mejorar la calidad de vida y el bienestar social.</p>
+    </section>
+    <section id="valores">
+        <h2>Valores</h2>
+        <ul>
+            <li>Seriedad en nuestro trabajo</li>
+            <li>Responsabilidad con el cumplimiento</li>
+            <li>Compromiso con la sociedad</li>
+            <li>Empatía a quienes más nos necesitan</li>
+            <li>Solidaridad con aquellos que precisan de nuestra ayuda</li>
+            <li>Deseos de superación para nuestros clientes y equipo</li>
+        </ul>
+    </section>
+    <section id="servicios">
+        <h2>Servicios</h2>
+        <ul>
+            <li>Nutrición</li>
+            <li>Psicología</li>
+            <li>Terapias alternativas varias</li>
+            <li>Masoterapias, acupuntura</li>
+            <li>Tratamientos de belleza y estética</li>
+            <li>Talleres</li>
+            <li>Disertaciones y charlas grupales</li>
+        </ul>
+    </section>
+    <section id="equipo">
+        <h2>Equipo</h2>
+        <p>Licenciado en Nutrición Quiroga Cristian Ariel M.P.1447, fundador y CEO de MOTIVA.</p>
+    </section>
+    <section id="testimonios">
+        <h2>Testimonios</h2>
+        <p>María Moreno: Me encantó el servicio y la atención personalizada. ¡Te atienden con mucho cariño! Gracias.</p>
+        <p>Andrés García: Todos los profesionales muy comprometidos en su trabajo, ¡muchas gracias!</p>
+        <p>Mariana Salinas: Quedé totalmente satisfecha con la atención y el tratamiento recibido.</p>
+        <p>Damián Martínez: Volvería a ir sin dudarlo, servicios de excelencia.</p>
+    </section>
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>Correo: motivasalud@gmail.com</p>
+        <p>Instagram: <a href="https://www.instagram.com/motivasalud_" target="_blank">@motivasalud_</a></p>
+        <p>Teléfono: +54 02622 515421 (WhatsApp)</p>
+        <p>Dirección: M. Moreno 48, Tunuyán-Mendoza-Arg</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 MOTIVA - Centro de Salud y Bienestar</p>
+    </footer>
+</body>
+</html>
